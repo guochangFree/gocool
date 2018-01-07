@@ -23,7 +23,7 @@ public class SigoApplication extends WebMvcConfigurerAdapter{
     @Autowired
     GunsProperties gunsProperties;
 
-
+    //test
     /**
      * 增加swagger的支持
      */
